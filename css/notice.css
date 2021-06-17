@@ -1,0 +1,39 @@
+.notice{
+    border: 5px solid black;
+    text-align: center;
+    
+
+}
+.notice-header{
+    background-color: aqua;
+    border: 2px solid black;
+
+}
+.notice-body{
+    background-color: rgb(187, 235, 173);
+    border: 2px solid black;
+
+}
+.notice-footer{
+    background-color: rgb(214, 150, 120);
+    border: 2px solid black;
+
+}
+.notice-button{
+    align-self: center;
+}
+#delete{
+    background-color: brown;
+    font-weight: bolder;
+    color:whitesmoke;
+
+}
+
+#edit{
+    background-color: greenyellow;
+    font-weight: bolder;
+    color: #000;
+}
+#insert{
+    box-align: center;
+}
